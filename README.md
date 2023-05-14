@@ -29,7 +29,7 @@ A list of Open Source communities in Africa
 
 
 # North Africa
-
+- [Ubuntu Egypt](https://www.facebook.com/groups/ubuntueg/)
 
 # Pan-African Communities
 - [Afrodjango Initiatives](http://www.afrodjangoinitiatives.org/)
