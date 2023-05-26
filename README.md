@@ -4,6 +4,7 @@ A list of Open Source communities in Africa
 
 # West Africa
 - [OSS Cameroom](https://osscameroon.com/)
+- [Python Benin](https://twitter.com/PythonBenin)
 - [Python Cote d'ivoire](https://www.facebook.com/PythonCI/)
 - [Python Ghana](https://www.pythonghana.org/)
 - [Python Nigeria](https://twitter.com/PythonNigeria)
