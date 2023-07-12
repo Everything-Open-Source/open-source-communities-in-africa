@@ -2,7 +2,7 @@
 
 A list of Open Source communities in Africa
 
-# West Africa
+## West Africa
 - [OSS Cameroom](https://osscameroon.com/)
 - [Python Benin](https://twitter.com/PythonBenin)
 - [Python Cote d'ivoire](https://www.facebook.com/PythonCI/)
@@ -11,7 +11,7 @@ A list of Open Source communities in Africa
 
 
 
-# East Africa
+## East Africa
 - [CyberStorm](https://cyberstorm.mu/)
 - [Linux User Group of Mauritius](https://lugm.org/)
 - [Python Kampala](https://www.meetup.com/pykampala/)
@@ -21,7 +21,7 @@ A list of Open Source communities in Africa
 
 
 
-# Southern Africa
+## Southern Africa
 - [Gauteng Python User Group](https://www.meetup.com/gauteng-python-users-group/)
 - [PyData Johannesburg](https://www.meetup.com/pydata-johannesburg/)
 - [Python Namibia](https://twitter.com/PythonNamibia)
@@ -29,10 +29,10 @@ A list of Open Source communities in Africa
 
 
 
-# North Africa
+## North Africa
 - [Ubuntu Egypt](https://www.facebook.com/groups/ubuntueg/)
 
-# Pan-African Communities
+## Pan-African Communities
 - [Afrodjango Initiatives](http://www.afrodjangoinitiatives.org/)
 - [CHAOSS Africa](https://chaoss.community/kb/chaoss-africa/)
 - [Masakhane](https://www.masakhane.io/)
