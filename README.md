@@ -2,16 +2,12 @@
 
 A list of Open Source communities in Africa
 
-## West Africa
-- [OSS Cameroom](https://osscameroon.com/)
-- [Python Benin](https://twitter.com/PythonBenin)
-- [Python Cote d'ivoire](https://www.facebook.com/PythonCI/)
-- [Python Ghana](https://www.pythonghana.org/)
-- [Python Nigeria](https://twitter.com/PythonNigeria)
+
+## Central Africa || Middle Africa
+- [Angola Open Source Community](https://github.com/angolaosc)
 
 
-
-## East Africa
+## Eastern Africa
 - [CyberStorm](https://cyberstorm.mu/)
 - [Linux User Group of Mauritius](https://lugm.org/)
 - [Python Kampala](https://www.meetup.com/pykampala/)
@@ -19,6 +15,8 @@ A list of Open Source communities in Africa
 - [Python Tanzania](https://pythontz.github.io/)
 - [SpaceYaTech](https://linktr.ee/spaceyatech)
 
+## Northern Africa
+- [Ubuntu Egypt](https://www.facebook.com/groups/ubuntueg/)
 
 
 ## Southern Africa
@@ -28,9 +26,13 @@ A list of Open Source communities in Africa
 - [ZimboPy](https://twitter.com/zimbopy?lang=en)
 
 
+## Western Africa
+- [OSS Cameroom](https://osscameroon.com/)
+- [Python Benin](https://twitter.com/PythonBenin)
+- [Python Cote d'ivoire](https://www.facebook.com/PythonCI/)
+- [Python Ghana](https://www.pythonghana.org/)
+- [Python Nigeria](https://twitter.com/PythonNigeria)
 
-## North Africa
-- [Ubuntu Egypt](https://www.facebook.com/groups/ubuntueg/)
 
 ## Pan-African Communities
 - [Afrodjango Initiatives](http://www.afrodjangoinitiatives.org/)
