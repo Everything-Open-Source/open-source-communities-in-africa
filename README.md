@@ -10,7 +10,6 @@ A list of Open Source communities in Africa
 ## Eastern Africa
 - [CyberStorm](https://cyberstorm.mu/)
 - [Linux User Group of Mauritius](https://lugm.org/)
-- [PyCon Uganda](https://ug.pycon.org/)
 - [Python Kampala](https://www.meetup.com/pykampala/)
 - [Python Nairobi](https://www.meetup.com/python-nairobi/)
 - [Python Tanzania](https://pythontz.github.io/)
