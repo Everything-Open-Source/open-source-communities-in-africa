@@ -27,6 +27,7 @@ A list of Open Source communities in Africa
 
 
 ## Western Africa
+- [Open Source Community Africa - Lomé chapter (OSCA Lomé)](https://twitter.com/osca_lome)
 - [OSS Cameroom](https://osscameroon.com/)
 - [Python Benin](https://twitter.com/PythonBenin)
 - [Python Cote d'ivoire](https://www.facebook.com/PythonCI/)
