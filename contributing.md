@@ -8,4 +8,4 @@ Before making a pull request, please make sure of the following:
 - Make an effort to add the community to the relevant region and alphabetically
 - Finally, create a pull request.
 
-Thank you! If you think there is anything to improve with the guideline, please contact me at everythingopensource@gmail.com
+Thank you! If you think there is anything to improve with the guideline, please contact us at everythingopensource@gmail.com
