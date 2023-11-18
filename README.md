@@ -43,3 +43,4 @@ A list of Open Source communities in Africa
 - [Masakhane](https://www.masakhane.io/)
 - [Open Source Community Africa](https://oscafrica.org/)
 - [Python Africa](https://africa.python.org/)
+- [Ubuntu Africa](https://twitter.com/ubuntu_Africa__)
