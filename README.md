@@ -32,7 +32,7 @@ A list of Open Source communities in Africa
 - [Data Scientists Network](https://www.datasciencenigeria.org/)
 - [Open Source Community Africa - Kano Chapter (OSCA Kano)](https://twitter.com/osca_kano)
 - [Open Source Community Africa - Lomé chapter (OSCA Lomé)](https://twitter.com/osca_lome)
-- [OSS Cameroom](https://osscameroon.com/)
+- [OSS Cameroon](https://osscameroon.com/)
 - [Python Benin](https://twitter.com/PythonBenin)
 - [Python Cote d'ivoire](https://www.facebook.com/PythonCI/)
 - [Python Ghana](https://www.pythonghana.org/)
