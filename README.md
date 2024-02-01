@@ -42,6 +42,7 @@ A list of Open Source communities in Africa
 
 - [Afrodjango Initiatives](http://www.afrodjangoinitiatives.org/)
 - [CHAOSS Africa](https://chaoss.community/kb/chaoss-africa/)
+- [GNOME Africa](https://wiki.gnome.org/GnomeAfrica)
 - [Masakhane](https://www.masakhane.io/)
 - [Open Source Community Africa](https://oscafrica.org/)
 - [Python Africa](https://africa.python.org/)
