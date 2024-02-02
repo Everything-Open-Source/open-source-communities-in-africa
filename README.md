@@ -30,6 +30,7 @@ A list of Open Source communities in Africa
 
 - [AI Saturdays Lagos](https://aisaturdayslagos.github.io/)
 - [Data Scientists Network](https://www.datasciencenigeria.org/)
+- [Linux Accra](https://linuxaccra.org/)
 - [Open Source Community Africa - Kano Chapter (OSCA Kano)](https://twitter.com/osca_kano)
 - [Open Source Community Africa - Lomé chapter (OSCA Lomé)](https://twitter.com/osca_lome)
 - [OSS Cameroon](https://osscameroon.com/)
