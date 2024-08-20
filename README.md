@@ -37,7 +37,8 @@ A list of Open Source communities in Africa
 - [Python Benin](https://twitter.com/PythonBenin)
 - [Python Cote d'ivoire](https://www.facebook.com/PythonCI/)
 - [Python Ghana](https://www.pythonghana.org/)
-- [Python Nigeria](https://twitter.com/PythonNigeria)
+- [Python Niger](https://twitter.com/PythonNiger) 🇳🇪
+- [Python Nigeria](https://twitter.com/PythonNigeria) 🇳🇬
 
 ## Pan-African Communities
 
