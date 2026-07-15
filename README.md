@@ -4,7 +4,6 @@ A list of Open Source communities in Africa
 
 ## Central Africa || Middle Africa
 
-- [Angola Open Source Community](https://github.com/angolaosc)
 
 ## Eastern Africa
 
@@ -22,6 +21,7 @@ A list of Open Source communities in Africa
 
 ## Southern Africa
 
+- [Angola Open Source Community](https://github.com/angolaosc)
 - [Gauteng Python User Group](https://www.meetup.com/gauteng-python-users-group/)
 - [PyData Johannesburg](https://www.meetup.com/pydata-johannesburg/)
 - [Python Namibia](https://twitter.com/PythonNamibia)
